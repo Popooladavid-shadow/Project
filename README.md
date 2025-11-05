@@ -51,3 +51,15 @@ cd Project
 
 # Run the program
 python new2.py
+
+
+🧑‍💻 Author
+
+Popoola David (Shadow), Wilson Maureen, Favour Mama
+🔗 GitHub: @Popooladavid-shadow
+
+🌐 Project Links
+
+🔗 View Project on GitHub
+
+💻 Live Demo on Vercel
